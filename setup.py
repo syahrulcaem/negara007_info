@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 from pathlib import Path
 
-VERSION = '0.0.2'
+VERSION = '0.0.3'
 DESCRIPTION = 'Inform Country'
 
 this_directory = Path(__file__).parent
